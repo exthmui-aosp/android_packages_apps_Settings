@@ -16,4 +16,8 @@
     <!-- Platform version -->
     <string name="platform_version">Plattform-Version</string>
 
+    <!-- exTHmUI maintainer -->
+    <string name="maintainer">Maintainer</string>
+    <string name="maintainer_name" translatable="false">Unknown</string>
+
 </resources>

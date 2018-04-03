@@ -16,4 +16,7 @@
     <!-- Platform version -->
     <string name="platform_version">平台版本</string>
 
+    <!-- exTHmUI maintainer -->
+    <string name="maintainer">维护者</string>
+
 </resources>
