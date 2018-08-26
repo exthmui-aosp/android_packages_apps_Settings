@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+
+    Copyright (C) 2022 The exTHmUI Open Source Project
+
+    SPDX-License-Identifier: Apache-2.0
+
+-->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <!-- About phone screen,  setting option name  [CHAR LIMIT=40] -->
+    <string name="build_date">构建日期</string>
+
+</resources>
