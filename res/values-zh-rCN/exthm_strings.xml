@@ -13,4 +13,7 @@
     <!-- exTHmUI Version -->
     <string name="exthm_version">exTHmUI 版本</string>
 
+    <!-- Platform version -->
+    <string name="platform_version">平台版本</string>
+
 </resources>
