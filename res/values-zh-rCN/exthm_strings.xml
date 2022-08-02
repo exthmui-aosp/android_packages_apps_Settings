@@ -10,4 +10,7 @@
     <!-- About phone screen,  setting option name  [CHAR LIMIT=40] -->
     <string name="build_date">构建日期</string>
 
+    <!-- exTHmUI Version -->
+    <string name="exthm_version">exTHmUI 版本</string>
+
 </resources>
